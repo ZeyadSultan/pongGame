@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Pc\source\repos\sfml\sfml\Source.cpp(310,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pc\source\repos\sfml\sfml\Source.cpp(338,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pc\source\repos\sfml\sfml\Source.cpp(351,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pc\source\repos\sfml\sfml\Source.cpp(351,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pc\source\repos\sfml\sfml\Source.cpp(160,11): warning C4101: 'event': unreferenced local variable
+  sfml.vcxproj -> C:\Users\Pc\source\repos\sfml\Debug\sfml.exe
